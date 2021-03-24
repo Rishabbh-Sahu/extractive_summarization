@@ -7,7 +7,7 @@ Code has been written on window's machine with 'miniconda'.
 conda activate <virtual_environment_name>
 
 Install all the requirements(requisite packages) -  
-    quick way to do it by using the below commands: 
+    quick way to do it by using the below command: 
     
     python3 -m pip install -r requirement.txt
 
