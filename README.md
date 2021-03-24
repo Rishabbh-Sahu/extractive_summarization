@@ -1,4 +1,4 @@
-## extractive_summarization
+## Extractive Summarization based on word frequency
 
 Code has been written on window's machine with 'miniconda'. 
 
