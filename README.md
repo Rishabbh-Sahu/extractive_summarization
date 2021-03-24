@@ -2,7 +2,7 @@
 
 Code has been written on window's machine with 'miniconda'. 
 
-#### Follow thes instructions below: 
+#### Follow the instructions below: 
 
 conda activate <virtual_environment_name>
 
