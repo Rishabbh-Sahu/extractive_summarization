@@ -1,4 +1,4 @@
-## Extractive Summarization based on word frequency
+## Extractive Summarization based on word frequency using Spacy
 
 Code has been written on window's machine with 'miniconda'. 
 
