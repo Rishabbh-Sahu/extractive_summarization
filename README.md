@@ -16,3 +16,5 @@ Open jupyter notebook from the conda environment
 Open extractive_summarization.ipynb
 
 This is an step by step guide for extractive summarization. go thru the comments to know more about the approach. 
+
+#### Validation metric used is - ROUGE
