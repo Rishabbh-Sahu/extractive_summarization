@@ -8,6 +8,7 @@ conda activate <virtual_environment_name>
 
 Install all the requirements(requisite packages) -  
     quick way to do it by using the below commands: 
+    
     python3 -m pip install -r requirement.txt
 
 Open jupyter notebook from the conda environment 
