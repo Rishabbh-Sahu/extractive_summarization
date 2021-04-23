@@ -9,7 +9,7 @@ conda activate <virtual_environment_name>
 Install all the requirements(requisite packages) -  
     quick way to do it by using the below command: 
     
-    python3 -m pip install -r requirement.txt
+    python -m pip install -r requirement.txt
 
 Open jupyter notebook from the conda environment (run locally and you can use chrome, edge etc browser to open jupyter notebook, python files)
 
