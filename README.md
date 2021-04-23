@@ -1,6 +1,6 @@
 ## Extractive Summarization based on word frequency using Spacy
 
-Code has been written on window's machine with 'miniconda'. 
+Code has been written on window's 10 machine with 'miniconda', However it should work across operating systems. 
 
 #### Follow the instructions below: 
 
@@ -11,7 +11,7 @@ Install all the requirements(requisite packages) -
     
     python3 -m pip install -r requirement.txt
 
-Open jupyter notebook from the conda environment 
+Open jupyter notebook from the conda environment (run locally and you can use chrome, edge etc browser to open jupyter notebook, python files)
 
 Open extractive_summarization.ipynb
 
