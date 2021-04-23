@@ -17,4 +17,4 @@ Open extractive_summarization.ipynb
 
 This is an step by step guide for extractive summarization. go thru the comments to know more about the approach. 
 
-#### Validation metric used - ROUGE
+#### Validation metric - ROUGE
