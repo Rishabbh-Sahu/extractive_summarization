@@ -1,6 +1,6 @@
 ## Extractive Summarization based on word frequency using Spacy
 
-Aim of this project is to showcase how using word and sentence importance, we can formulate a crisp summary of any documents or article. To calculate sentence importance, word importance and their weights were created, by aggregating them at sentence level, sentence importance was determined. 
+Aim of this project is to showcase how using word and sentence importance, we can formulate a crisp summary of any documents or article. To calculate sentence importance, word importance and their weights were created, by aggregating these weights at sentence level, sentence importance was determined. 
 
 #### Follow the instructions below: 
 
