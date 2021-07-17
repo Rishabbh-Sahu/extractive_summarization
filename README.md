@@ -19,5 +19,7 @@ This is an step by step guide for extractive summarization. go thru the comments
 
 #### Validation metric - ROUGE
 
+This is still an area of potential research to validate text generation.
+
 #### Model dependencies: 
 Code has been written on window's 10 machine with 'miniconda', However it should work across operating systems. 
