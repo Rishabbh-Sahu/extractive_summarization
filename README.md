@@ -21,5 +21,9 @@ This is an step by step guide for extractive summarization. go thru the comments
 
 This is still an area of potential research to validate text generation. However, ROUGE score will give an approximate measure to check the approach w.r.t. target summary.
 
+#### Future work - 
+
+Implementing TestRank and PageRank algorithm to find significant sentences to generate the summary.
+
 #### Model dependencies: 
 Code has been written on window's 10 machine with 'miniconda', However it should work across operating systems. 
