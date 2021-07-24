@@ -28,4 +28,4 @@ Implementing TestRank and PageRank algorithm together to find significant senten
 - PageRank algorithm helps in sorting these sentences from high to low importance range. Thereafter, pick TOP-N sentences to summaries the document.
 
 #### Model dependencies: 
-Code has been written on window's 10 machine with 'miniconda', However it should work across operating systems. 
+Code has been written on window's 10 machine with 'miniconda', However it should work across operating systems (unix/mac). 
