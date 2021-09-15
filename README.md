@@ -11,7 +11,7 @@ Install all the requirements(requisite packages) -
     
     python -m pip install -r requirement.txt
 
-Open jupyter notebook from the conda environment (run locally and you can use chrome, edge etc. browsers to open jupyter notebook and python files)
+Open jupyter notebook from the conda environment (run locally and you can use chrome, edge etc. browsers, to open jupyter notebook and python files)
 
 Open extractive_summarization.ipynb
 
