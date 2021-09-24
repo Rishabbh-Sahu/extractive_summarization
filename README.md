@@ -6,8 +6,7 @@ Aim of this project is to showcase how with word and sentence importance, we can
 
 conda activate <virtual_environment_name>
 
-Install all the requirements(requisite packages) -  
-    quick way to do it by using the below command: 
+Install all the requirements(requisite packages) - quick way to do it by using the below command: 
     
     python -m pip install -r requirement.txt
 
