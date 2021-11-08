@@ -13,7 +13,7 @@ Install all the requirements(requisite packages) - quick way to do it by using t
 
 Open jupyter notebook from the conda environment (run locally and you can use chrome/edge/IE etc. browsers, to open jupyter notebook and python files)
 
-Open extractive_summarization.ipynb
+```Open extractive_summarization.ipynb```
 
 This is an step by step guide for extractive summarization. go thru the comments to know more about the approach. 
 
