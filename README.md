@@ -5,12 +5,12 @@ Aim of this project is to showcase how to formulate a crisp summary of any docum
 #### Follow the instructions below: 
 New to conda, a **useful guide** - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
+conda activate <virtual_environment_name>
+
 For MAC and linux/unix platforms, there is an easy way to create the virtual environment as below - 
 ```
 python -m venv venv && source venv/bin/activate
 ```
-
-conda activate <virtual_environment_name>
 
 Install all the requirements(requisite packages) - quick way to do it by using the below command: 
     
