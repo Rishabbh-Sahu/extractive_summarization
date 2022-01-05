@@ -7,7 +7,7 @@ New to conda, a **useful guide** - https://conda.io/projects/conda/en/latest/use
 
 For MAC and linux/unix platforms, there is an easy way to create the virtual environment as below - 
 ```
-python3 -m venv venv && source venv/bin/activate
+python -m venv venv && source venv/bin/activate
 ```
 
 conda activate <virtual_environment_name>
