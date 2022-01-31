@@ -13,9 +13,9 @@ python -m venv venv && source venv/bin/activate
 ```
 
 Install all the requirements(requisite packages) - quick way to do it by using the below command: 
-    
-    python -m pip install -r requirement.txt
-
+```    
+python -m pip install -r requirement.txt
+```
 Open jupyter notebook from the conda environment (run locally and you can use chrome/edge/IE etc. browsers, to open jupyter notebook and python files)
 
 ```Open extractive_summarization.ipynb```
