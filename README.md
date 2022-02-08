@@ -30,7 +30,4 @@ This is still an area of potential research to validate text generation. However
 
 Implemented **TestRank and PageRank** algorithm together, to find significant sentences, to generate the summary-
 - TestRank helps by creating the graph where **nodes represent the 'sentences' and edges 'the similarity' between them**. 
-- PageRank algorithm helps in **sorting these sentences from high to low importance range**. Thereafter, pick TOP-N sentences to summaries the document (Can specify number of words as well to genearate the summary)
-
-#### Model dependencies: 
-Code was written on window's 10, using 'miniconda' evnironment, However it should work across operating systems (unix/mac). 
+- PageRank algorithm helps in **sorting these sentences from high to low importance range**. Thereafter, pick TOP-N sentences to summaries the document (Can specify number of words as well to genearate the summary) 
