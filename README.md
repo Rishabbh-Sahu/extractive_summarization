@@ -24,7 +24,7 @@ This is an step by step guide for extractive summarization. go thru the comments
 
 #### Validation metric: ROUGE
 
-This is still an area of potential research to validate text generation. However, ROUGE score will give an approximate measure to check the results w.r.t. target summary.
+This is still an area of potential research to validate text generation. However, ROUGE (Recall-Oriented Understudy for Gisting Evaluation) score will give an approximate measure to check the results w.r.t. target summary.
 
 #### Future work:
 
