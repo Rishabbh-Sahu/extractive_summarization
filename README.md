@@ -1,4 +1,4 @@
-## Extractive Summarization based on word frequency using Spacy:
+## <p align="center">Extractive Summarization based on word frequency using Spacy </p>
 
 Aim of this project is to showcase how to formulate a crisp summary of any document or article with **words/sentences importance**. Started with word level importance using their weights, followed by sentence level where these weights were aggregated to determine sentence level importance. 
 
