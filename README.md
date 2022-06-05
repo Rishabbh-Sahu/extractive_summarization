@@ -3,7 +3,7 @@
 Aim of this project is to showcase how to formulate a crisp summary of any document or article with **words/sentences importance**. Started with word level importance using their weights, followed by sentence level where these weights were aggregated to determine sentence level importance. 
 
 #### Follow the instructions below: 
-New to conda, a **useful guide** - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
+New to conda?? a **useful guide** - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 ```
 conda activate <virtual_environment_name>
 ```
